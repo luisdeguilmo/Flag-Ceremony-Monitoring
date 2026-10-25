@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="actionOverflowButtonStyle">@style/MyOverflowButtonStyle</item>
+        <item name="android:statusBarColor">@color/black</item>
+
+    </style>
+
+    <style name="Theme.QRAttendance" parent="Base.Theme.QRAttendance" />
+
+    <style name="MyOverflowButtonStyle" parent="Widget.AppCompat.ActionButton.Overflow">
+        <!-- Set your custom drawable here -->
+        <item name="android:src">@drawable/three_dot</item>
+    </style>
+</resources>

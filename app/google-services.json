@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "883636502575",
+    "project_id": "qr-attendance-f4d8f",
+    "storage_bucket": "qr-attendance-f4d8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883636502575:android:ad4a3a12a3cfb107d306da",
+        "android_client_info": {
+          "package_name": "com.example.qrattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883636502575-b4rcv8kqlu865h842a2htbkrkr24kiq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qrattendance",
+            "certificate_hash": "f05a85d25581e48b7907e679612eea8b46646216"
+          }
+        },
+        {
+          "client_id": "883636502575-m6lngaeb5ajmfn3534ljl272v7db6v7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qrattendance",
+            "certificate_hash": "e1904ac1a18dd0cc399d93a54e25233c28ac2694"
+          }
+        },
+        {
+          "client_id": "883636502575-nn8nrb8e5b0od7g8jcfq9uirtv8eupmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2IUrQPHy0IxozLu0xSbPq-XORO__xMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883636502575-nn8nrb8e5b0od7g8jcfq9uirtv8eupmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

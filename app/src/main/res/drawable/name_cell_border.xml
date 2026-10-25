@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color -->
+    <item>
+        <shape>
+            <solid android:color="@color/gray" /> <!-- White background -->
+        </shape>
+    </item>
+
+    <!-- Top border -->
+    <item android:top="2dp">
+        <shape>
+            <solid android:color="#FFFFFF" /> <!-- Gray -->
+        </shape>
+    </item>
+
+    <!-- Bottom border -->
+    <item android:bottom="4dp">
+        <shape>
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+
+    <!-- Left border -->
+    <item android:left="1dp">
+        <shape>
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+
+    <!-- Right border -->
+    <item android:right="3dp">
+        <shape>
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+</layer-list>
